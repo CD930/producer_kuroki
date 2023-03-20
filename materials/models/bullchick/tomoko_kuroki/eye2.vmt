@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/bullchick/tomoko_kuroki/eye2"
+	"$phong" "1"
+	"$lightwarptexture" "models/bullchick/tomoko_kuroki/toon_head"
+}

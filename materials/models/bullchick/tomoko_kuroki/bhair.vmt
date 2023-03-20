@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/bullchick/tomoko_kuroki/BHair"
+	"$nocull" "1"
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongexponent" "5"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 1 5]"
+
+}

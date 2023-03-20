@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/bullchick/tomoko_kuroki/toon"
+	"$translucent" "1"
+	"$nodecal" "1"
+	"$lightwarptexture" "models/bullchick/tomoko_kuroki/toon_head"
+}
