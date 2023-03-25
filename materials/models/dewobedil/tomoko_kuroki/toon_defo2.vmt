@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/tomoko_kuroki/toon_defo"
+	"$nocull" "1"
+	"$phong" "0"
+	"$phongboost"	"2"
+	"$phongexponent" "5"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[0 0 5]"
+	"$lightwarptexture" "models/dewobedil/tomoko_kuroki/toon_all"
+}

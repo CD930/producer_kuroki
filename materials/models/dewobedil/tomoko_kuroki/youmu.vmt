@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/tomoko_kuroki/youmu"
+	"$phong" "0"
+	"$lightwarptexture" "models/dewobedil/tomoko_kuroki/toon_head"
+}

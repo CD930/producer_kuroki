@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/tomoko_kuroki/black"
+                "$bumpmap" "models/dewobedil/tomoko_kuroki/normal"
+	"$nocull" "1"
+
+}

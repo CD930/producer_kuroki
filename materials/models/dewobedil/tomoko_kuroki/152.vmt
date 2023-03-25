@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/tomoko_kuroki/15"
+                "$bumpmap" "models/dewobedil/tomoko_kuroki/normal"
+
+	"$lightwarptexture" "models/dewobedil/tomoko_kuroki/toon_skin"
+}

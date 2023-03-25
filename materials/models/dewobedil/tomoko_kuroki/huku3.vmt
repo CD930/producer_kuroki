@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/tomoko_kuroki/huku3"
+                "$bumpmap" "models/dewobedil/tomoko_kuroki/normal"
+                "$phongexponenttexture" "models/dewobedil/tomoko_kuroki/phong_exp"
+                "$PhongExponent" "1.0"
+                "$phongboost"	".1"
+	"$phongalbedotint" "1"
+                " $ambientocclusion"  1
+                "$phongfresnelranges"	"[1 .1 .1]"
+	"$lightwarptexture" "models/dewobedil/tomoko_kuroki/shader"
+                "nodecal" "1"
+}
