@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/bullchick/tomoko_kuroki/black"
-                "$bumpmap" "models/bullchick/tomoko_kuroki/normal"
-	"$nocull" "1"
-
-}

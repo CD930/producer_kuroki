@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/bullchick/tomoko_kuroki/15"
-                "$bumpmap" "models/bullchick/tomoko_kuroki/normal"
-
-	"$lightwarptexture" "models/bullchickl/tomoko_kuroki/toon_skin"
-}
